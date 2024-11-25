@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Task 3 Dynamic Matrix Multiplication/cmake-build-debug/CMakeFiles/Task_3_Dynamic_Matrix_Multiplication.dir
+C:/Users/pc/CLionProjects/Task 3 Dynamic Matrix Multiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Task 3 Dynamic Matrix Multiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
